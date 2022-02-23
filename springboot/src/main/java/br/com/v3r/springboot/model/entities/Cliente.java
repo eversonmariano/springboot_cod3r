@@ -1,4 +1,5 @@
-package br.com.v3r.springboot.models;
+package br.com.v3r.springboot.model.entities;
+
 
 public class Cliente {
 
